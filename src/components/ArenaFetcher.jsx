@@ -358,7 +358,7 @@ const ArenaFetcher = () => {
             {urls.length > 0 && (
               <Card className="shadow-md">
                 <CardHeader>
-                  <CardTitle>URL Statistics</CardTitle>
+                  <CardTitle>Channel Stats</CardTitle>
                 </CardHeader>
                 <CardContent>
                   <div className="space-y-2">
